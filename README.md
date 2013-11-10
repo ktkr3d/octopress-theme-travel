@@ -1,6 +1,6 @@
 # octopress theme travel
 
-my octopress theme.
+my octopress theme. [ktkr3d.github.io](http://ktkr3d.github.io)
 
 ## Install
 
