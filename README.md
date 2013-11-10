@@ -9,3 +9,6 @@ $ rake install['octopress-theme-travel']
 $ rake generate
 ```
 
+## Screenshot
+
+{% img octopress-theme-travel.png %}
