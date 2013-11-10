@@ -1,5 +1,7 @@
 # octopress theme travel
 
+my octopress theme.
+
 ## Install
 
 ```
@@ -11,4 +13,7 @@ $ rake generate
 
 ## Screenshot
 
-{% img octopress-theme-travel.png %}
+![octopress-theme-travel](https://raw.github.com/ktkr3d/octopress-theme-travel/master/octopress-theme-travel.png)
+
+
+
