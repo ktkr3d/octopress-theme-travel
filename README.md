@@ -4,7 +4,7 @@ my octopress theme.
 
 ## Install
 
-```
+``` sh
 $ cd /path/to/your/octopress
 $ git clone git://github.com/ktkr3d/octopress-theme-travel.git .themes/octopress-theme-travel
 $ rake install['octopress-theme-travel']
