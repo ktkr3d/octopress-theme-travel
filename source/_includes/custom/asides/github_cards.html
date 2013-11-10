@@ -1,4 +1,6 @@
+{% if site.github_user %}
 <section>
   <h1>GitHub Cards</h1>
-  <iframe src="http://lab.lepture.com/github-cards/card.html?user=ktkr3d" frameborder="0" scrolling="0" width="270" height="200" allowtransparency></iframe>
+  <iframe src="http://lab.lepture.com/github-cards/card.html?user={{ site.github_user }}" frameborder="0" scrolling="0" width="270" height="200" allowtransparency></iframe>
 </section>
+{% endif %}
