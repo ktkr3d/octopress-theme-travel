@@ -5,7 +5,8 @@ body
 {
 	background: url("body-bg.png") repeat-y scroll center top #E6EDC8 !important;
 	padding: 0px 0px 0 0px !important;
-    font-family: "HiraKakuProN-W3","Hiragino Kaku Gothic ProN","メイリオ","Meiryo","IPAexGothic",verdana,'trebuchet ms',sans-serif !important;
+//    font-family: "HiraKakuProN-W3","Hiragino Kaku Gothic ProN","メイリオ","Meiryo","IPAexGothic",verdana,'trebuchet ms',sans-serif !important;
+	font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif !important;
 }
 body > header
 {
@@ -23,7 +24,8 @@ body > header hgroup
 }
 body > header h1
 {
-	font-family: Ubuntu,TertreExtraBold,Tahoma,Arial !important;
+//	font-family: Ubuntu,TertreExtraBold,Tahoma,Arial !important;
+	font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif !important;
     font-size: 30px !important;
     font-weight: normal !important;
     line-height: 1 !important;
@@ -67,7 +69,8 @@ body > footer
 }
 h1.entry-title
 {
-	font-family: Ubuntu,TertreExtraBold,Tahoma,Arial !important;
+//	font-family: Ubuntu,TertreExtraBold,Tahoma,Arial !important;
+	font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif !important;
 	color: #000 !important;
 	font-size: 21px !important;
 	font-weight: bold !important;
@@ -122,7 +125,8 @@ aside ul
 	margin-left: 10px !important;
 }
 .serif, body, #content .blog-index a[rel="full-article"] {
-    font-family: "HiraKakuProN-W3","Hiragino Kaku Gothic ProN","メイリオ","Meiryo","IPAexGothic",verdana,'trebuchet ms',sans-serif !important;
+//    font-family: "HiraKakuProN-W3","Hiragino Kaku Gothic ProN","メイリオ","Meiryo","IPAexGothic",verdana,'trebuchet ms',sans-serif !important;
+	font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif !important;
 }
 ol, ul
 {
@@ -139,7 +143,8 @@ ol, ul
 
 h4
 {
-	font-family: "HiraKakuProN-W3","Hiragino Kaku Gothic ProN","メイリオ","Meiryo","IPAexGothic",verdana,'trebuchet ms',sans-serif !important;
+//	font-family: "HiraKakuProN-W3","Hiragino Kaku Gothic ProN","メイリオ","Meiryo","IPAexGothic",verdana,'trebuchet ms',sans-serif !important;
+	font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif !important;
 }
 
 .github-card .button
@@ -157,6 +162,13 @@ aside.sidebar li {
 {
 	padding-left: 2em !important;
 }
+
+#blog-archives article
+{
+	padding-left: 60px !important;
+	padding-right: 30px !important;
+}
+
 
 * + table {
     border-style:solid;
